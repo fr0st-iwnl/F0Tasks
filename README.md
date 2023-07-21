@@ -1,6 +1,6 @@
-# <a href="https://fr0st-iwnl.github.io/frost-iwnl-portofolio.com/" target="_blank">My To-Do App</a>
+# <a href="https://f0tasks.netlify.app" target="_blank">My To-Do App</a>
 
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-yellow)](https://fr0st-iwnl.github.io/frost-iwnl-portofolio.com/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-yellow)](https://f0tasks.netlify.app)
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence.</p>
 
